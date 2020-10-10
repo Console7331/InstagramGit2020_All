@@ -1,0 +1,6 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Console7331/gitlessons2020_Server
+[submodule "Program"]
+	path = Program
+	url = https://github.com/Console7331/git-lessons-java2020
